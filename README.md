@@ -1,2 +1,3 @@
 # SwiftParseSample
-Quick app using Parse 
+Quick iOS app using Parse and Swift
+

@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "ParseTest": {
+            "applicationId": "bzfBSlKGe18WqxyBH8itNLwtpLoZeJDCILmb9UoG", 
+            "masterKey": "Rm41TB5aOdm8pXUopwucDAri1AQ3QeFipyocMg4J"
+        }, 
+        "_default": {
+            "link": "ParseTest"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.3"
+    }
+}

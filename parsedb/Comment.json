@@ -1,0 +1,24 @@
+{ "results": [
+	{
+        "comment": "test 3",
+        "createdAt": "2015-01-16T01:33:40.477Z",
+        "objectId": "w4gQVXTkzl",
+        "updatedAt": "2015-01-16T01:33:40.477Z",
+        "user_id": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "OHsnwUaoDH"
+        }
+    },
+	{
+        "comment": "Hola!",
+        "createdAt": "2015-01-16T01:45:11.866Z",
+        "objectId": "x2aqpoJ3O7",
+        "updatedAt": "2015-01-16T01:45:11.866Z",
+        "user_id": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "OHsnwUaoDH"
+        }
+    }
+] }
